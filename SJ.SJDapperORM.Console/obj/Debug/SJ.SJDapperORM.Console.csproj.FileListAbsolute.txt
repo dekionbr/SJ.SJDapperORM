@@ -1,0 +1,1 @@
+C:\Projeto\SJ.SJDapperORM\SJ.SJDapperORM.Console\bin\Debug\SJ.SJDapperORM.Console.exe.config
